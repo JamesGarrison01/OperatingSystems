@@ -1,0 +1,19 @@
+argT[0]: ls
+argT[1]: -al
+argT[2]: (null)
+argT[3]: (null)
+argT[4]: (null)
+total 80
+drwxrwxr-x 2 jgarrison jgarrison  4096 Oct 16 12:53 .
+drwxrwxr-x 4 jgarrison jgarrison  4096 Oct  9 11:16 ..
+-rwxrwxr-x 1 jgarrison jgarrison 13784 Oct 16 12:52 a.out
+-rw-rw-r-- 1 jgarrison jgarrison    20 Oct  9 11:54 file.txt
+-rw-rw-r-- 1 jgarrison jgarrison   398 Oct 11 16:59 ls
+-rwxr-xr-x 1 jgarrison jgarrison   327 Oct 11 16:54 output2.txt
+-rwxr-xr-x 1 jgarrison jgarrison    73 Oct 16 12:53 output.txt
+-rwxrwxr-x 1 jgarrison jgarrison  8904 Oct 11 18:08 pre
+-rw-rw-r-- 1 jgarrison jgarrison  3894 Oct 11 18:09 shhh.c
+-rwxrwxr-x 1 jgarrison jgarrison  9184 Oct 11 18:08 sort
+-rw-rw-r-- 1 jgarrison jgarrison  1005 Oct  9 11:33 temp.c
+-rw-rw-r-- 1 jgarrison jgarrison  3902 Oct 11 17:21 test.c
+-rw-rw-r-- 1 jgarrison jgarrison  3107 Oct  9 14:34 working.c
